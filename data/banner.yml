@@ -1,0 +1,18 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Šaušanas Sporta Klubs HitFactor"
+subtitle: |
+  Šāvēju sagatavošana dalībai šaušanas sporta sacensībās Latvijā un ārzemēs
+content : |
+  Mūsu mērķi ir:
+  <ul>
+    <li>Veicināt un attīstīt fizisku personu un militarizētu struktūrvienību darbinieku šaušanas prasmju apgūšanu un iemaņu uzlabošanu rīcībā ar ieročiem un šaušanā;
+    <li>Šaušanas sporta tradīciju nostiprināšana;
+    <li>Šaušanas sporta attīstība;
+    <li>Šāvēju sagatavošana dalībai šaušanas sporta sacensībās Latvijā un ārzemēs;
+    <li>Sporta sacensību organizēšana un vadīšana.
+  </ul>
+button:
+  label : "WA1500.lv"
+  link : "https://wa1500.lv/"
+image : "images/banner.jpg"

@@ -1,0 +1,37 @@
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+title = "Šaušanas Sporta Klubs HitFactor"
+theme = "hugo-story"
+
+
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
+
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+# googleAnalytics = "your-google-analytics-id"
+
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+[Params]
+  description = "Šāvēju sagatavošana dalībai šaušanas sporta sacensībās Latvijā un ārzemēs"
+  logo = "images/banner.jpg"
+#  favicon = true
+
+[Params.social]
+  email = "riga.hit.factor@gmail.com"
+  facebook = "https://www.facebook.com/RigaHitFactor"
+  github = "https://github.com/arkadijs/hitfactor"
+#  twitter = "https://twitter.com/caressofsteel_"
+#  instagram = "https://instagram.com"
+#  linkedin = "https://linkedin.com"
+#  telegram = "https://telegram.org"
+
+#[module]
+#[[module.imports]]
+#  path = "github.com/caressofsteel/hugo-story"
